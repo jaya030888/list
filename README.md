@@ -8,10 +8,12 @@ This project is a simple webpage that displays my daily tasks, hobbies, and inte
 
 **Features & Technologies Used:**
 
-HTML Lists — used <ul> and <ol> to display hobbies, interests and daily tasks
+HTML Lists — used ul and ol to display hobbies, interests and daily tasks
 
 CSS Grid Layout — used display: grid and column structure for alignment
 
 **Functions Performed:**
 
 Presents hobbies, interests, and daily tasks in an organized manner
+
+[Deployed Link](https://jaya030888.github.io/list/)
